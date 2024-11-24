@@ -91,7 +91,7 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafllamme)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=donut&hide_border=true&theme=default&langs_count=5&custom_title=Top%20Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=donut&hide_border=true&bg_color=00000000&theme=tokyonight&langs_count=5&custom_title=Top%20Languages)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lafllamme&base=463000&color=CB1D63)
 ![GitHub followers](https://img.shields.io/github/followers/lafllamme?style=social)
