@@ -110,6 +110,8 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafllamme&row=3&column=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark&no-frame=true
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lafllamme&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🎶 Currently listening to ...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3385a9&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&redirect=true)
 
