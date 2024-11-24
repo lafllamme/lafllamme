@@ -16,7 +16,8 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 ![GitHub User's stars](https://img.shields.io/github/stars/lafllamme?style=social)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lafllamme)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lafllamme&row=3&column=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark&no-frame=true
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 💼 About Me
