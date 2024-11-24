@@ -101,49 +101,5 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafllamme&row=3&column=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark&no-frame=true
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
----
-
-## 💻 A Snippet of My Code
-
-```typescript
-// Continuously improving and learning new skills
-function keepLearning(skills: string[]) {
-  for (const skill of skills) {
-    practice(skill);
-    apply(skill);
-    reflect(skill);
-  }
-}
-
-const mySkills = ['TypeScript', 'Vue.js', 'Docker', 'DevOps'];
-keepLearning(mySkills);
-
-// Define the methods
-function practice(skill: string) {
-  console.log(`Practicing ${skill}`);
-}
-
-function apply(skill: string) {
-  console.log(`Applying ${skill} in projects`);
-}
-
-function reflect(skill: string) {
-  console.log(`Reflecting on ${skill} to improve further`);
-}
-```
-
----
-
-*"First, solve the problem. Then, write the code." – John Johnson*
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech.
-
-
+## 🎶 Currently listening to ...
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3385a9&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&redirect=true)
