@@ -115,9 +115,3 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 ### 🎶 Currently listening to ...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3385a9&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&redirect=true)
 
-
-#### ... still reading? What about a Joke
-
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=prussian)
