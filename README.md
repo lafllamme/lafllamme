@@ -91,7 +91,7 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafllamme)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=compact&hide_border=true&theme=default")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=donut&hide_border=true&theme=default&langs_count=5&custom_title=Top%20Languages)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lafllamme&base=463000&color=CB1D63)
 ![GitHub followers](https://img.shields.io/github/followers/lafllamme?style=social)
@@ -101,36 +101,11 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 [![trophy](https://github-profile-trophy.vercel.app/?username=lafllamme&row=3&column=3&margin-w=15&margin-h=15&no-bg=true&theme=onedark&no-frame=true
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 💼 About Me
-
-- 🔭 **Currently working on**: Nuxt 3 projects and AI integration with hardware.
-- 🌱 **Learning**: Advanced TypeScript, LLMs, and DevOps automation.
-- 💬 **Ask me about**: JavaScript, TypeScript, Vue.js, PHP, Symfony, Python, Docker.
-- ⚡ **Fun fact**: I'm a frontend enthusiast who loves exploring the latest in AI technologies.
-
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-- [**Greenhouse Monitor**](https://github.com/lafllamme/greenhouse-monitor): An AI-driven plant monitoring system integrating hardware sensors and real-time analytics.
-- [**Nuxt E-Commerce**](https://github.com/lafllamme/nuxt-ecommerce): A fully-featured e-commerce platform built with Nuxt.js and TypeScript.
-- [**DevOps Automation Scripts**](https://github.com/lafllamme/devops-scripts): A collection of scripts for automating Docker deployments and CI/CD pipelines.
-
-*(Feel free to replace these with actual projects from your GitHub profile.)*
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
-## 💡 Hobbies & Interests
-
-- 🚴 **Cycling**
-- 📖 **Reading tech blogs**
-- 🎮 **Gaming**
-- 🎵 **Music**
 
 ---
 
