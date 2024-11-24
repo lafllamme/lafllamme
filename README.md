@@ -2,6 +2,8 @@
 
 I'm a **Full Stack Developer** focusing on frontend systems. I specialize in building modern, responsive web applications using **TypeScript**, **PHP**, **Python**, and **Docker**. Passionate about creating clean, efficient code and exploring new technologies like AI and LLMs.
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&font=Architect&theme=react)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lafllamme&base=463000&color=CB1D63)
 ![GitHub followers](https://img.shields.io/github/followers/lafllamme?style=social)
@@ -104,3 +106,9 @@ I'm a **Full Stack Developer** focusing on frontend systems. I specialize in bui
 
 ## 🎶 Currently listening to ...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3385a9&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=flamme737&redirect=true)
+
+
+... still reading? What about a Joke:
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
