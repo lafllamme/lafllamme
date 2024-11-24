@@ -4,9 +4,102 @@
 
 I'm a **Full Stack Developer** focusing on frontend systems. I specialize in building modern, responsive web applications using **TypeScript**, **PHP**, **Python**, and **Docker**. Passionate about creating clean, efficient code and exploring new technologies like AI and LLMs.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=compact&hide_border=true&theme=default")
+<a href="https://github.com/lafllamme"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lafllamme&show_icons=true&hide_border=true&count_private=true&theme=default" /> </a> <a href="https://github.com/lafllamme"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=compact&hide_border=true&theme=default" /> </a>
 
-This version conveys the skills and experience of a full-stack developer with a professional yet approachable tone. Let me know if you'd like further adjustments!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=compact&hide_border=true&theme=default")
+![](https://komarev.com/ghpvc/?username=lafllamme&base=463000&color=CB1D63)
+
+### 1. Shields.io Badges
+
+#### GitHub Followers Badge
+![GitHub followers](https://img.shields.io/github/followers/lafllamme?style=social)
+
+#### GitHub Stars Badge
+![GitHub User's stars](https://img.shields.io/github/stars/lafllamme?style=social)
+
+#### GitHub Commit Activity (Past Month)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/lafllamme/lafllamme)
+
+---
+
+### 2. GitHub Readme Stats by anuraghazra
+
+#### Basic Stats Card
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafllamme)
+
+#### Top Languages Card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafllamme&layout=compact)
+
+---
+
+### 3. GitHub Profile Trophy by ryo-ma
+[![trophy](https://github-profile-trophy.vercel.app/?username=lafllamme)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 4. GitHub Readme Streak Stats by DenverCoder1
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafllamme)](https://git.io/streak-stats)
+
+---
+
+### 5. Visitor Counter by hits.dwyl.com
+![Hits](https://hits.dwyl.com/lafllamme/lafllamme.svg?style=flat-square)
+
+---
+
+### 6. Profile Views Counter by Komarev
+![Profile Views](https://komarev.com/ghpvc/?username=lafllamme)
+
+---
+
+### 7. Counter by CountAPI
+![Visitor Count](https://count.getloli.com/get/@lafllamme)
+
+---
+
+### 8. GitHub Contributions Snake by Platane
+![GitHub Snake Animation](https://github.com/lafllamme/lafllamme/blob/output/github-contribution-grid-snake.svg)
+
+**Note:** You'll need to set up a GitHub Actions workflow to generate this animation. Follow the instructions in [Platane's repository](https://github.com/Platane/snk) to set it up.
+
+---
+
+### 9. Wakatime Stats
+![lafllamme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lafllamme)
+
+---
+
+### 10. GitHub Activity Graph by Ashutosh00710
+[![lafllamme's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lafllamme&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 11. Metrics by lowlighter
+![Metrics](https://github.com/lafllamme/lafllamme/blob/master/github-metrics.svg)
+
+**Note:** Requires setting up a GitHub Actions workflow. Instructions can be found in [lowlighter's repository](https://github.com/lowlighter/metrics).
+
+---
+
+### 12. Dev.to Badge
+![Dev.to blog](https://img.shields.io/badge/Dev.to-%40lafllamme-black)
+
+---
+
+### 13. StackOverflow Badge
+![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/USER_ID)
+
+**Replace `USER_ID` with your actual StackOverflow user ID.**
+
+---
+
+### 14. Medium Badge
+![Medium](https://img.shields.io/badge/Medium-%40lafllamme-black)
+
+---
+
+### 15. Twitter Badge
+[![Twitter Follow](https://img.shields.io/twitter/follow/lafllamme?style=social)](https://twitter.com/lafllamme)
 
 
 ## 💼 About Me
